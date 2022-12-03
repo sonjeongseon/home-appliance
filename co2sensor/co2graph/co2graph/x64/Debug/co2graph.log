@@ -1,0 +1,20 @@
+﻿  testgraph.cpp
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(143,32): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(143,15): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(163,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(163,14): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(164,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(164,14): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(190,32): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(190,15): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(211,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(211,14): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(212,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(212,14): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(239,32): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(239,15): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(261,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(261,14): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(262,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\co2graph\testgraph.h(262,14): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  co2graph.vcxproj -> C:\Users\wjd24\Desktop\UI\co2sensor\co2graph\x64\Debug\co2graph.exe
