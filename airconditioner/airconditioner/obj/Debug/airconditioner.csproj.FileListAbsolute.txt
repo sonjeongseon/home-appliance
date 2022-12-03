@@ -1,0 +1,10 @@
+C:\Users\wjd24\Desktop\UI\airconditioner\airconditioner\obj\Debug\airconditioner.csproj.AssemblyReference.cache
+C:\Users\wjd24\Desktop\UI\airconditioner\airconditioner\obj\Debug\airconditioner.Form1.resources
+C:\Users\wjd24\Desktop\UI\airconditioner\airconditioner\obj\Debug\airconditioner.Properties.Resources.resources
+C:\Users\wjd24\Desktop\UI\airconditioner\airconditioner\obj\Debug\airconditioner.csproj.GenerateResource.cache
+C:\Users\wjd24\Desktop\UI\airconditioner\airconditioner\obj\Debug\airconditioner.csproj.CoreCompileInputs.cache
+C:\Users\wjd24\Desktop\UI\airconditioner\airconditioner\bin\Debug\airconditioner.exe.config
+C:\Users\wjd24\Desktop\UI\airconditioner\airconditioner\bin\Debug\airconditioner.exe
+C:\Users\wjd24\Desktop\UI\airconditioner\airconditioner\bin\Debug\airconditioner.pdb
+C:\Users\wjd24\Desktop\UI\airconditioner\airconditioner\obj\Debug\airconditioner.exe
+C:\Users\wjd24\Desktop\UI\airconditioner\airconditioner\obj\Debug\airconditioner.pdb
